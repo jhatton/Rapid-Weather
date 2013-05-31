@@ -1,0 +1,33 @@
+html {
+	background-color: #000000;
+	border-style: solid;
+}
+
+#wrapper {
+	color: white;
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	text-shadow: 0 0 1px #2b2b23;
+	background-color: hsl(58, 56%, 18%);
+}
+
+blockquote {
+	float: left;
+	width: 55%;
+	background-color: hsl(58, 16%, 40%);
+	margin: 2%;
+	padding: 1%;
+	
+}
+
+.download {
+	 
+	float: right;
+	width: 35%;
+	margin-right: 2%;
+	background-color: hsl(58, 16%, 40%);
+	padding: 1%;
+}
+ 
+ 
